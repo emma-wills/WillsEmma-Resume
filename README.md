@@ -64,6 +64,27 @@ __Peer Assisted Leadership__, PALS
 - Helping elementary students in the community with homework and counsel.
 - Key skills in: customer service- being able to work with different kinds of children
 
+## Coding Projects
+
+`Data Science Programming DS250`
+__Project One: What's In a Name?__
+- Analysis of name trends using Pandas, Altair and Quarto
+  
+__Project Two: Late Flights and Missing Data__
+- Learned to clean up data in a CSV
+- Created and maintained data to return proper results
+
+__Project Three: Finding Relationships In Baseball__
+- Used SQL to modify and upkeep a database
+- Modified tables to fit the needs of the client
+
+__Project Four: Can You Predit That?__
+- Created a machine learning algorithm using Random Forest
+- Predicted the presence of asbestos in a home based on key factors
+
+ __Project Five: The War With Star Wars__
+ - Created a machine learning algorithm to predict demographics based on Star Wars Data
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
