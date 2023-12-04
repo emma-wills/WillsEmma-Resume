@@ -1,60 +1,69 @@
-# md-resume
+---
+layout: cv
+title: Emma Wills' Resume
+---
+# Emma Wills
+Effective, trustworthy, reliable data entry specialist with SharePoint, Excel, and FamilySearch experience with a high-quality standard of analyzing information. Collaborative multi-tasker with experience in creating, training, and fulfilling both individual and team projects.  
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="emmalb17@byui.edu">emmalb17@byui.edu</a>
+| <a href="https://www.linkedin.com/in/emma-wills-051ab5281/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes">GitHub</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
-***
+## Education
 
-## Customization
+`2017-2018`
+__Brigham Young Univeristy - Hawaii__, Laie, HI
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+- Half-ride scholarships for three semesters before transferring. 
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`Expected 2024`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+- Business Analytics Major with Minor in Political Science
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-adding your skills, jobs and education.
+## Related Experience
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+### Relevant Classwork
 
-## Distribution
+`September 2023-December 2023`
+__Data Science Programming__, Rexburg, Idaho
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+- Worked on several projects catered to specific clients
+- Learned important skills like Python, Quarto, and other Python extensions
+- Submitted quality work that ex
 
-### I. Use Github Pages to publish it online
+### Data Entry Specialist
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+`September 2022-ONGOING`
+__BYU-Idaho__, Data Entry
 
-![](docs_setup.png)
+- Provide ongoing training for new employees which includes monitoring progress, double-checking work for errors, and providing feedback during the training period
+- Developed strong research skills
+- Ability to work quickly and effectively with short deadlines
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+### Off-Campus RA
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+`May 2017-December 2018`
+__BYU-Hawaii__
 
-## Styling
+- Assisted with creating and managing contracts for landlords of BYU-Hawaii off-campus housing
+- Assessed off-campus housing for compliance with Hawaii health and safety codes
+- Managed conflicts between roomates
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+## Service and Work History
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+`2015-2016`
+__Peer Assisted Leadership__, PALS
 
-### Author
+- Helping elementary students in the community with homework and counsel.
+- Key skills in: customer service- being able to work with different kinds of children
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+<!-- ### Footer
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Last updated: May 2013 -->
