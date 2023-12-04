@@ -67,6 +67,7 @@ __Peer Assisted Leadership__, PALS
 ## Coding Projects
 
 `Data Science Programming DS250`
+
 __Project One: What's In a Name?__
 - Analysis of name trends using Pandas, Altair and Quarto
   
