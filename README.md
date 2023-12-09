@@ -3,7 +3,7 @@ layout: cv
 title: Emma Wills' Resume
 ---
 # Emma Wills
-Effective, trustworthy, reliable data entry specialist with SharePoint, Excel, and FamilySearch experience with a high-quality standard of analyzing information. Collaborative multi-tasker with experience in creating, training, and fulfilling both individual and team projects.  
+Effective, trustworthy, reliable data entry specialist with SharePoint, Excel, and FamilySearch experience with a high-quality standard of analyzing information. Collaborative multi-tasker with experience in creating, training, and fulfilling both individual and team projects.
 
 <div id="webaddress">
 <a href="emmalb17@byui.edu">emmalb17@byui.edu</a>
